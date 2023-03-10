@@ -1,0 +1,15 @@
+elefánt*4*4*7
+flamingó*13*13*4
+fóka*12*5*1
+gorilla*6*9*2
+hód*0*0*8
+kacsa*7*11*1
+kakukk*15*5*5
+kutya*10*0*3
+láma*12*15*4
+macska*3*2*7
+oroszlán*1*11*5
+róka*13*9*3
+sas*2*9*6
+szamár*2*15*6
+viziló*15*10*1
